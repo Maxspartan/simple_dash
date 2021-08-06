@@ -5,10 +5,15 @@ certifi==2021.5.30
 charset-normalizer==2.0.4
 click==8.0.1
 colorama==0.4.4
+dash==1.21.0
+dash-core-components==1.17.1
+dash-html-components==1.1.4
+dash-table==4.12.0
 debugpy==1.4.1
 decorator==5.0.9
 Flask==2.0.1
 Flask-Compress==1.10.1
+future==0.18.2
 idna==3.2
 ipykernel==6.0.3
 ipython==7.26.0
@@ -18,6 +23,7 @@ jedi==0.18.0
 Jinja2==3.0.1
 jupyter-client==6.1.12
 jupyter-core==4.7.1
+jupyter-dash==0.4.0
 MarkupSafe==2.0.1
 matplotlib-inline==0.1.2
 numpy==1.21.1
